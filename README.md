@@ -88,7 +88,7 @@ The design was verified through simulation using ModelSim/QuestaSim and synthesi
 
 ### RTL Schematic
 
-<img src="./Results/RTLSchematic.png" alt="RTL Schematic" width="900">
+<img src="./Results/RTLSchematic.png" alt="rtl" width="900">
 ### Waveform
 
 ![Waveform](Results/waveform1.png)
